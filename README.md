@@ -18,9 +18,8 @@ A Internet das Coisas (IoT) está cada vez mais presente em nosso cotidiano, con
 
 ## Estrutura do Repositório
 
-- `/Documentacao`: Contém documentos relevantes do projeto, como revisões bibliográficas, anotações, e manuais.
-- `/Codigos`: Códigos-fonte utilizados nos experimentos e na aplicação desenvolvida.
-- `/Resultados`: Armazena os resultados obtidos dos testes, incluindo análises de métricas, gráficos e relatórios.
+- `/Documentação`: Contém documentos relevantes do projeto, como revisões bibliográficas, anotações, e manuais.
+- `/Código`: Códigos-fonte utilizados nos experimentos e na aplicação desenvolvida.
 
 ## Referências
 
